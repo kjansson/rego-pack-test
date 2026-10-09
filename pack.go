@@ -1,4 +1,4 @@
-// Package awsdefault embeds the aws-default policy pack.
+// Package kimtest embeds the aws-default policy pack.
 package kimtest
 
 import "embed"

@@ -1,4 +1,4 @@
-package aws
+package kimtest
 
 import rego.v1
 
